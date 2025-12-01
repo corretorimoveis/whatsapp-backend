@@ -1,0 +1,13 @@
+# Server Configuration
+PORT=3000
+NODE_ENV=production
+
+# CORS - URL do seu frontend Lovable
+CORS_ORIGIN=https://seu-projeto.lovable.app
+
+# Supabase Configuration
+SUPABASE_URL=https://fneaiyrkantttxphewne.supabase.co
+SUPABASE_SERVICE_ROLE_KEY=sua_service_role_key_aqui
+
+# Optional: Session storage path
+SESSION_PATH=./sessions
